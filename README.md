@@ -1,8 +1,8 @@
 ### Hi there, I'm Simon Stenström 
 
-## Currently enrolled at Medieinstitutet to become a front end developer
+Currently enrolled at Medieinstitutet to become a front end developer, graduating in spring 2025. At the moment I'm learning Typescript.
 
-##Current tech stack: 
+
 ### Tech Stack
 ## Front End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
