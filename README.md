@@ -1,6 +1,6 @@
 ## Hi there, I'm Simon Stenström 
 
-Currently enrolled at Medieinstitutet to become a front end developer, graduating in spring 2025. At the moment I'm learning Typescript.
+Currently enrolled at Medieinstitutet to become a front end developer, graduating in spring 2025. At the moment I'm learning API development and is also looking for an internship in southern Sweden in the fall of 2024.
 
 
 ## Tech Stack
